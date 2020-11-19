@@ -63,6 +63,7 @@
     grid-template-rows: repeat(4, 5vw);
     grid-gap: 50px;
     margin-top: 130px;
+    z-index: 2;
 }
 
 
@@ -155,13 +156,14 @@
 .slider_ {
     display: flex;
     justify-content: center;
+    z-index: 2;
 
 }
 
 .slider__item_ {
     font-size: 50px;
     color: rgb(197, 197, 197);
-    opacity: .6;
+    opacity: 1;
     vertical-align: bottom;
     margin-bottom: 50px;
 }
