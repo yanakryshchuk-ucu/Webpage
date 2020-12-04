@@ -130,8 +130,6 @@
     font-weight: 400;
     float: right;
     text-align: left;
-    margin-left: 140px;
-    margin-top: -70px;
 }
 
 .img__title {
@@ -140,14 +138,12 @@
     font-weight: 700;
     text-transform: uppercase;
     float: left;
-    margin-top: 10px;
-    margin-left: 10px;
 
 }
 
 .text-container {
     width: 50%;
-    align-items: left;
+    float: right;
 }
 
 
